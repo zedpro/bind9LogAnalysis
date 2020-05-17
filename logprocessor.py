@@ -16,6 +16,8 @@ class LogProcessor:
         :return:
         """
 
+        #test
+
         #
         # Componiamo path del file di log
         #
